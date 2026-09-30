@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: teamflow-slice-01-backend
